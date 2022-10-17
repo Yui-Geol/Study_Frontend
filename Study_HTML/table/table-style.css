@@ -1,0 +1,21 @@
+table, th, td{
+	border-width: 1px 0;
+	border-style: solid;
+	border-color: #888;
+	border-collapse: collapse;
+}
+chrome://extensions/shortcutchrome://extensions/shortcutsschrome://extensions/shortcuts
+th, td {
+	padding: 5px 15px;
+	min-width: 50px;
+	font-size: 0.875em;chrome://extensiochrome://extensions/shortcutsnchrome://extensions/shortcutss/shortcuts
+	text-align: center;
+}
+
+th:nth-child(3),th:nth-child(4),td:nth-child(4n+3),td:nth-child(4n+4) {
+	text-align: right;
+}
+
+tbody tr:nth-child(2n+1){
+	background-color: #f0f0f0; 
+}

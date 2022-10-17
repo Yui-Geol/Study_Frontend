@@ -1,0 +1,11 @@
+ul[class="menu"] li{
+	color: blue; 
+}
+
+[id^="side-"]{
+	color: red;
+}
+
+div[id$="-banner"]{
+	color: gray;
+}

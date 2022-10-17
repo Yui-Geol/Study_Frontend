@@ -1,0 +1,43 @@
+article h1:first-child{
+	background-color: red;
+}
+
+article a.toweb:visited{
+	color: gray;
+}
+
+article a.toweb:link{
+	color: red;
+}
+
+article p:hover{
+	background-color:pink;
+}
+/*
+article p:nth-last-of-type(3){
+	background-color: pink;
+}
+
+article p:nth-of-type(n){
+	background-color: green;
+}
+
+article p:first-of-type{
+	background-color: yellow;
+}
+
+article p:last-of-type{
+	background-color: green;
+}
+*/
+/*
+article p:last-child{
+	background-color: blue;
+}
+*/
+/*
+article p:nth-child(2n){
+	background-color: gray;
+}
+*/
+
