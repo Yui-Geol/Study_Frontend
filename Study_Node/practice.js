@@ -3,4 +3,3 @@ let b = ",my friend";
 
 console.log(`${a}${b}`);
 
-
