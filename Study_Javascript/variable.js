@@ -1,3 +1,7 @@
+//ECMAScript(European Computer Manufacturer Association Script)
+//Every browser has javascipt engine
+//Edge, Chrome: V8 // Safari: JavaScript Core // Firefox: SpiderMonkey
+
 //variable is a name given to identify the memory space itself or its memory space that is free to store a single value
 //varibale is a sybolical name that point out memory location
 //variable name is identifier. idnetifier is a unique name that distinguish some value to identify
