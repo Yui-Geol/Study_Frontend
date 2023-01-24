@@ -1,6 +1,6 @@
 //javascript(ES6) provides 7date type
-//primitive type: number, string, boolean, undefined, null, sybol
-//object type: object, function, array, etc
+//primitive type: number, string, boolean, undefined, null, symbol (single date)
+//object type: object, function, array, etc (complex date)
 
 var integer = 10; //integer
 var double = 10.5; //float
