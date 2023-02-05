@@ -27,7 +27,16 @@ var score;
 console.log(score);
 
 //constant should be assigned the value when declare the constant
+//constant cannot be reassigned
 const DIGIT = 10;
+
+const apple = {
+	name: 'apple',
+	color: 'red',
+}
+console.log(apple.name);//apple
+apple.name = 'orange';
+console.log(apple.name);//orange. key value can be changed. Because apple store memory address not value
 
 //naming convention
 

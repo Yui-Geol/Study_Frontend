@@ -1,6 +1,6 @@
 //javascript(ES6) provides 7date type
-//primitive type: number, string, boolean, undefined, null, symbol (single date)
-//object type: object, function, array, etc (complex date)
+//primitive type: number, string, boolean, undefined, null, symbol (single date) copy by value(value)
+//object type: object, function, array, etc (complex date) copy by reference(momory address)
 
 var integer = 10; //integer
 var double = 10.5; //float
