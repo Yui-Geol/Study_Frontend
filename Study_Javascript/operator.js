@@ -91,4 +91,9 @@ console.log(typeof isPass);//string
 var exponentNum = 2 ** 5;
 console.log(exponentNum);//32
 var exponentNum2 = Math.pow(2,5);
-console.log(exponentNum2);//32
+console.log(exponentNum2);//3
+//
+//
+let text;
+text = '1' + 1;// number will be converted to string
+console.log(text);

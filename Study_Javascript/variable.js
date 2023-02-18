@@ -68,3 +68,8 @@ const a = { name: 'choi', adress: 'ulsan' }//object literal
 
 //All statement that can be evaluated by value are expressions
 
+const TEN = 10;
+
+console.log(typeof TEN);
+
+console.log("hello");
