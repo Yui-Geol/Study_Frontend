@@ -1,15 +1,15 @@
-//javascript(ES6) provides 7date type
-//primitive type: number, string, boolean, undefined, null, symbol (single date) copy by value(value)
-//object type: object, function, array, etc (complex date) copy by reference(momory address)
+//javascript(ES6)는 7가지 데이터 타입을 제공함 
+//원시타입:primitive type: number, string, boolean, undefined, null, symbol (single date) copy by value
+//객체타입: object, function, array, etc (complex date) copy by reference(momory address)
 
-var integer = 10; //integer
-var double = 10.5; //float
-var negative = -10; //negative integer
+var integer = 10; //정수
+var double = 10.5; //실수
+var negative = -10; //음의 정수
 
 var binary = 0b0100;
-var binary2 = 0b100;//binary
-var octal = 0o100;//ocatal
-var hexadecimal = 0x100;//hexadecimal
+var binary2 = 0b100;//이진수
+var octal = 0o100;//8진수
+var hexadecimal = 0x100;//16진수
 //javascript doesn't provide data types for expressing binary, octal, or hexadecimal numbers
 //so referring to these value, they are expressed in decimal numbers
 
