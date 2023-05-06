@@ -97,3 +97,10 @@ console.log(exponentNum2);//3
 let text;
 text = '1' + 1;// number will be converted to string
 console.log(text);
+
+console.log(score >= 60 ? 'pass' : 'fail');
+
+var y, z;
+y = 2, z = 3;
+console.log(y);
+console.log(z);
