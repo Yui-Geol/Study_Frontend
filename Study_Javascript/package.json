@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "auto-josa": "^1.0.0",
+    "cox-postposition": "^1.4.1",
     "hangulkit": "^1.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "num-to-korean": "^0.5.2"
   }
 }
