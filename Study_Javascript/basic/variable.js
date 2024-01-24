@@ -103,7 +103,7 @@ console.log(apple.name);//orange. key value can be changed. Because apple store 
 var firstName;
 
 //snake case
-var firstName;
+var first_name;
 
 //pascal case
 var FirstName;
@@ -132,3 +132,5 @@ const TEN = 10;
 console.log(typeof TEN);
 
 console.log("hello");
+
+
